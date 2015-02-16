@@ -21,5 +21,10 @@
   "bugs": {
     "url": "https://github.com/finnp/lightness/issues"
   },
-  "homepage": "https://github.com/finnp/lightness"
+  "homepage": "https://github.com/finnp/lightness",
+  "dependencies": {
+    "color-convert": "^0.5.2",
+    "color-string": "^0.2.4",
+    "parse-color": "^1.0.0"
+  }
 }
