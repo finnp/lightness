@@ -1,0 +1,25 @@
+{
+  "name": "lightness",
+  "version": "1.0.0",
+  "description": "Change the lightness of a css color",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/finnp/lightness.git"
+  },
+  "keywords": [
+    "lighten",
+    "darken",
+    "css",
+    "colour"
+  ],
+  "author": "Finn Pauls",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/finnp/lightness/issues"
+  },
+  "homepage": "https://github.com/finnp/lightness"
+}
